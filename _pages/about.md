@@ -8,41 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hey, thanks for dropping by! I'm Andra Ionescu, a bit of a data geek and machine learning enthusiast.
-This year my journey at TU Delft is coming to an end, so I am ***open for work*** &#129395; 
+I am a research scientist with a background in software engineering. My research is focused on data engineering approaches for creating high-quality training datasets for machine learning models, mainly focusing on decision trees. 
 
-What I've Been Up To
-======
-I spent some quality time at TU Delft, The Netherlands, working towards obtaining my Ph.D. degree after doing my master's there too.
-I got my bachelor's from Politehnica University in Bucharest, Romania. 
+My professional expertise is built on 5 years of experience in full-stack software development across various industries. I have a [PhD in Computer Science](https://repository.tudelft.nl/record/uuid:433071e6-38d1-4442-b73b-be4e0c086a93) from Delft University of Technology in The Netherlands, under the supervision of [Asterios Katsifodimos](https://asterios.katsifodimos.com/) and [Rihan Hai](https://rihanhai.com/). My academic credentials also include a [Master of Science](https://repository.tudelft.nl/record/uuid:9f8056e6-cfdf-4240-99e3-5f45947d1fa7) in Computer Science, specialising in Data Science, from the same university and a Bachelor of Science in Computer Science and Engineering from Politehnica University of Bucharest, Romania. 
 
-Real-World Experience
-======
-I have 4 years of experience working as a software engineer (back-end, front-end and full-stack), and another 4 years working as a researcher. 
-I started the transition to the research world with my research internship which involved diving into the world of fintech, figuring out how to match up different data sources.
-
-Talking About My Work
-======
-Ever heard of podcasts? Well, I got to be on one, talking about my work on data market platforms. 
-Plus, I've written some papers that got a thumbs-up at big conferences: best demonstration award at EDBT 2023. 
-
-My Superpowers
-======
-I love to organise, plan and *document* pretty much everything. Other super-powers include and are not limited to: collaboration, time and project management, great communication and presentation skills. 
-
-What I'm Into
-=======
-My research is like solving mysteries in the world of data. I'm curious about finding datasets, making datasets better, and creating training datasets for machine learning.
-
-Beyond Work
-=======
-But life isn't just about work, right? I'm all about giving back. 
-I've been helping out with projects that support women in science and I've also organized cool events for researchers. 
-I love food: cooking, baking, eating, and maybe in the future even growing some food on my own. 
-
-Let's Hang Out!
-=======
-So, that's a bit about me. Feel free to wander around, learn more about what I do, and drop me a message. 
-
-### Disclaimer 
-Bear with me. My website is under development. 
+I am an active community member, and I have received the <i class="fa-solid fa-trophy"></i> Best Demonstration Award at EDBT 2023 <i class="fa-solid fa-trophy"></i>.
