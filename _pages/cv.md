@@ -15,4 +15,4 @@ redirect_from:
 
 <!-- <embed src="/files/paper1.pdf" width="80%" height="75%"> -->
 
-[![My CV](/files/paper1.pdf)](/files/paper1.pdf)
+[![My CV](/files/AndraIonescu_CV.png)](/files/AndraIonescu_CV.png)
