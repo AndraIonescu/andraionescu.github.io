@@ -9,6 +9,7 @@ author_profile: true
 
 ### 2025 
   - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2025/)
+  - PC Member @ [WWW Resource Track](https://www2025.thewebconf.org/resource-track)
 
 ### 2024 
   - PC Member @ [TaDa](https://tabular-data-analysis.github.io/tada2024/)
