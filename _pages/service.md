@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### 2025 
+  - PC Member @ [VLDB Demo](https://vldb.org/2025/?call-for-demonstrations)
   - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2025/)
   - PC Member @ [WWW Resource Track](https://www2025.thewebconf.org/resource-track)
 
