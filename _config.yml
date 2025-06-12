@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Andra Ionescu, PhD"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist"
-  location         : "Netherlands"
+  bio              : "Postdoctoral Researcher"
+  location         : "Stockholm, Sweden"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=A-G2gV8AAAAJ&hl=en&oi=sra"
-  email            : andradenis.ionescu@gmail.com
+  email            : adio@kth.se
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
