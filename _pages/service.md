@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+### 2026 
+  - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2026/)
+
 ### 2025 
+  - Reviewer @ Information Systems Journal
   - PC Member @ [HILDA](https://hilda.io/2025/)
   - PC Member @ [TaDa](https://tabular-data-analysis.github.io/tada2025/)
   - PC Member @ [VLDB Demo](https://vldb.org/2025/?call-for-demonstrations)

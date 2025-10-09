@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### About me
+## About me
 
 I am currently a Postdoctoral Researcher at KTH Royal Institute of Technology, working on a cross-disciplinary project between the School of Electrical Engineering and Computer Science (EECS) and the School of Engineering Sciences in Chemistry, Biotechnology, and Health (CBH). In collaboration with [Paris Carbone](https://people.kth.se/~parisc/), [Jayanth Raghothama](https://www.jayanthr.net/about/), and [Sebastiaan Meijer](https://www.kth.se/profile/smeijer), we are working on [Mediverse](https://www.digitalfutures.kth.se/project/mediverse-multimodal-clinical-exploration-and-search-on-a-single-graph/), a Digital Futures research project. The goal of Mediverse is to provide a platform for multi-modal clinical data harmonisation for secondary reuse through unified graph-based representations, aiming to transform clinical decision-making and information retrieval.
 
@@ -18,3 +18,10 @@ My academic credentials also include a [Master of Science](https://repository.tu
 
 I am an active member of the database and data management community, and I have received the &#127942; Best Demonstration Award at [EDBT 2023](http://edbticdt2023.cs.uoi.gr/?contents=awards_demo_edbt.html) &#127942;.
 
+### Short Bio 
+
+Andra is a research scientist with a background in software engineering. She currently works as a postdoctoral researcher at KTH, where she is developing an approach for multi-modal clinical data harmonisation through graph-based representations. She holds a PhD in Computer Science from Delft University of Technology in the Netherlands, where she focused on feature discovery for data-centric AI. 
+
+### Curriculum Vitae
+
+Most recent 2-page <a href="{{ base_path }}/files/AndraIonescu_CV.pdf" target="_blank"> CV</a>.
