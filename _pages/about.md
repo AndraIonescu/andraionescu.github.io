@@ -16,7 +16,7 @@ I have a [PhD in Computer Science](https://repository.tudelft.nl/record/uuid:433
 
 My academic credentials also include a [Master of Science](https://repository.tudelft.nl/record/uuid:9f8056e6-cfdf-4240-99e3-5f45947d1fa7) in Computer Science, specialising in Data Science, from Delft University of Technology, The Netherlands, and a Bachelor of Science in Computer Science and Engineering from Politehnica University of Bucharest, Romania. 
 
-I am an active member of the database and data management community, and I have received the &#127942; Best Demonstration Award at [EDBT 2023](http://edbticdt2023.cs.uoi.gr/?contents=awards_demo_edbt.html) &#127942;.
+I am an [active member]({{ base_path }}/service/) of the database and data management community, and I have received the &#127942; Best Demonstration Award at [EDBT 2023](http://edbticdt2023.cs.uoi.gr/?contents=awards_demo_edbt.html) &#127942;.
 
 ### Short Bio 
 
