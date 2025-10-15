@@ -9,6 +9,7 @@ author_profile: true
 
 ### 2026 
   - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2026/)
+  - Reviewer @ [CHI -- Understanding People — Qualitative Methods](https://chi2026.acm.org/authors/papers/selecting-a-subcommittee/#understanding_qualitative)
 
 ### 2025 
   - Reviewer @ Information Systems Journal
