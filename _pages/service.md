@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ### 2026 
+  - PC Member @ [SIGMOD Demo](https://2026.sigmod.org/calls_sigmod_demos.shtml)
   - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2026/)
   - Reviewer @ [CHI -- Understanding People — Qualitative Methods](https://chi2026.acm.org/authors/papers/selecting-a-subcommittee/#understanding_qualitative)
 
