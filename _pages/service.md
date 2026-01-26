@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 ### 2026 
+  - PC Member @ [DBML](https://dataintelligencecrew.github.io/dbml26/)
+  - PC Member @ [HILDA](https://hilda.io/2026/)
+  - PC Member @ [VLDB Demo](https://vldb.org/2026/call-for-demonstrations.html)
   - PC Member @ [SIGMOD Demo](https://2026.sigmod.org/calls_sigmod_demos.shtml)
   - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2026/)
   - Reviewer @ [CHI -- Understanding People — Qualitative Methods](https://chi2026.acm.org/authors/papers/selecting-a-subcommittee/#understanding_qualitative)
