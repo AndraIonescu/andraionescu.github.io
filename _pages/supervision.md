@@ -1,26 +1,42 @@
 ---
 layout: archive
-title: "Supervision"
+title: "Students"
 permalink: /supervision/
 author_profile: true
 ---
 
 {% include base_path %}
 
-[Here](https://repository.tudelft.nl/person/supervised/Person_a2d35cbf-4641-487f-ab6a-c97ef90823aa) you can find all my supervision work at TU Delft.
+## Master thesis topics
+
+Contribute to [Mediverse](www.mediverse.se), a platform for multi-modal clinical data harmonisation through unified graph-based representations aiming to transform clinical decision-making and information retrieval: native harmonisation across modalities and clinics, multi-modal cross-site predictive studies, and inference tuned with uncertainty control to infuse trust.
+
+- Benchmarking retrieve and rerank methods for medical entity linking
+- Exploring GNNs for medical entity linking
+- Leveraging LLMs for multimodal information extraction
+- Multivariate entity linking
+
+To apply, send your CV, transcript and motivation for choosing the project to <u>adio@kth.se</u>
+
 
 ## Master's Students
 
-At TU Delft, I supervised the following master's students:
+[Here](https://repository.tudelft.nl/person/supervised/Person_a2d35cbf-4641-487f-ab6a-c97ef90823aa) you can find all my supervision work at TU Delft.
 
-- 2024 
-  - **Zeger Mouw** - _Human Interaction in Tabular Data Augmentation in Data Science Workflows_, [paper](https://repository.tudelft.nl/record/uuid:daef797f-0ff7-4b44-9a79-e659d4bede4d)
+- 2026 - KTH 
+  - Matej Priesol - _Leveraging LLMs for Synthetic Data Generation in the Finance Domain_ 
+    - Supervised in collaboration with Sonia Horchidan (KTH) and Evangelia Gogoulou (SEBx)
+  - Abhinav Ramalingam - _Comparative Analysis ofMethods for Transforming EHRData to Canonical GraphElements_, [thesis](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A2075996&dswid=-8815)
+    - Student from Uppsala University
+
+- 2024 - TU Delft
+  - **Zeger Mouw** - _Human Interaction in Tabular Data Augmentation in Data Science Workflows_, [thesis](https://repository.tudelft.nl/record/uuid:daef797f-0ff7-4b44-9a79-e659d4bede4d)
   
   The research conducted by Zeger Mouw has been part of the following papers: 
     - _Human-in-the-Loop Feature Discovery for Tabular Data_, [Demo@CIKM 2024](https://dl.acm.org/doi/10.1145/3627673.3679211)
     - _Key Insights from a Feature Discovery User Study_, [HILDA@SIGMOD 2024](https://dl.acm.org/doi/10.1145/3665939.3665961)
-- 2022
-  - **Wang Hao Wang** - _An exploratory journey to combine schema matchers for better relevance prediction_, [paper](https://repository.tudelft.nl/record/uuid:fba2c5a7-8769-4ee8-90e2-7d361fc41c03)
+- 2022 - TU Delft
+  - **Wang Hao Wang** - _An exploratory journey to combine schema matchers for better relevance prediction_, [thesis](https://repository.tudelft.nl/record/uuid:fba2c5a7-8769-4ee8-90e2-7d361fc41c03)
 
 ## Bachelor's Students
 
