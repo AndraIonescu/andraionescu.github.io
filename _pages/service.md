@@ -7,37 +7,27 @@ author_profile: true
 
 {% include base_path %}
 
-### 2027 
-  - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2027/)
 
-### 2026 
-  - PC Member @ [BioDMS](https://biodms.org/#program-committee)
-  - PC Member @ [DBML](https://dataintelligencecrew.github.io/dbml26/)
-  - PC Member @ [HILDA](https://hilda.io/2026/)
-  - PC Member @ [VLDB Demo](https://vldb.org/2026/call-for-demonstrations.html)
-  - PC Member @ [SIGMOD Demo](https://2026.sigmod.org/calls_sigmod_demos.shtml)
-  - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2026/)
-  - Reviewer @ [CHI -- Understanding People — Qualitative Methods](https://chi2026.acm.org/authors/papers/selecting-a-subcommittee/#understanding_qualitative)
+### PC Member
+- 2027: [DOLAP](https://dolapworkshop.github.io/dolap-2027/), [SIGMOD Demo](https://2027.sigmod.org/calls_sigmod_demos.shtml)
+- 2026: [CHI -- Understanding People — Qualitative Methods](https://chi2026.acm.org/authors/papers/selecting-a-subcommittee/#understanding_qualitative), [DOLAP](https://dolapworkshop.github.io/dolap-2026/), [SIGMOD Demo](https://2026.sigmod.org/calls_sigmod_demos.shtml), [VLDB Demo](https://vldb.org/2026/call-for-demonstrations.html), [HILDA](https://hilda.io/2026/), [DBML](https://dataintelligencecrew.github.io/dbml26/), [BioDMS](https://biodms.org/#program-committee)
+- 2025: [WWW Resource Track](https://www2025.thewebconf.org/resource-track), [DOLAP](https://dolapworkshop.github.io/dolap-2025/), [VLDB Demo](https://vldb.org/2025/?call-for-demonstrations),[TaDa](https://tabular-data-analysis.github.io/tada2025/), [HILDA](https://hilda.io/2025/)
+- 2024: [TaDa](https://tabular-data-analysis.github.io/tada2024/)
 
-### 2025 
-  - Reviewer @ Information Systems Journal
-  - PC Member @ [HILDA](https://hilda.io/2025/)
-  - PC Member @ [TaDa](https://tabular-data-analysis.github.io/tada2025/)
-  - PC Member @ [VLDB Demo](https://vldb.org/2025/?call-for-demonstrations)
-  - PC Member @ [DOLAP](https://dolapworkshop.github.io/dolap-2025/)
-  - PC Member @ [WWW Resource Track](https://www2025.thewebconf.org/resource-track)
 
-### 2024 
-  - PC Member @ [TaDa](https://tabular-data-analysis.github.io/tada2024/)
-  - Tutorials & Workshop Chair @ [DEBS](https://2024.debs.org/)
+### Journal Reviewer
+- 2025: Information Systems Journal
 
-### 2023 
-  - Co-organiser & Workshop Chair @ [DBML](https://www.wis.ewi.tudelft.nl/dbml2023)
 
-### 2022 
-  - Co-organiser @ [eXplainable AI Summer School](https://xaiss.eu/)
-  - Co-organiser @ [Alice&Eve](https://alice-and-eve.github.io/2022/)
-  - Publicity Chair @ [DBML](https://www.wis.ewi.tudelft.nl/dbml2022)
+### Chair 
+- 2024: Tutorials & Workshop Chair [DEBS](https://2024.debs.org/)
+- 2023: Workshop Chair [DBML](https://www.wis.ewi.tudelft.nl/dbml2023)
 
-### 2021 
-  - Publicity Chair @ [DBDBD](https://www.wis.ewi.tudelft.nl/dbdbd2021)
+
+### (Co-)Organiser
+- 2022: [Alice&Eve](https://alice-and-eve.github.io/2022/), [eXplainable AI Summer School](https://xaiss.eu/), [DBML](https://www.wis.ewi.tudelft.nl/dbml2023)
+
+
+### Publicity Chair 
+- 2022: [DBML](https://www.wis.ewi.tudelft.nl/dbml2022)
+- 2021: [DBDBD](https://www.wis.ewi.tudelft.nl/dbdbd2021)
