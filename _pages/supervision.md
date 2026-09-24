@@ -24,9 +24,9 @@ To apply, send your CV, transcript and motivation for choosing the project to <u
 [Here](https://repository.tudelft.nl/person/supervised/Person_a2d35cbf-4641-487f-ab6a-c97ef90823aa) you can find all my supervision work at TU Delft.
 
 - 2026 - KTH 
-  - Matej Priesol - _Leveraging LLMs for Synthetic Data Generation in the Finance Domain_ 
+  - **Matej Priesol** - _Leveraging LLMs for Synthetic Data Generation in the Finance Domain_ 
     - Supervised in collaboration with Sonia Horchidan (KTH) and Evangelia Gogoulou (SEBx)
-  - Abhinav Ramalingam - _Comparative Analysis ofMethods for Transforming EHRData to Canonical GraphElements_, [thesis](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A2075996&dswid=-8815)
+  - **Abhinav Ramalingam** - _Comparative Analysis of Methods for Transforming EHR Data to Canonical Graph Elements_, [thesis](https://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A2075996&dswid=-8815)
     - Student from Uppsala University
 
 - 2024 - TU Delft
