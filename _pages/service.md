@@ -9,7 +9,7 @@ author_profile: true
 
 
 ### PC Member
-- 2027: [DOLAP](https://dolapworkshop.github.io/dolap-2027/), [SIGMOD Demo](https://2027.sigmod.org/calls_sigmod_demos.shtml)
+- 2027: [DOLAP](https://dolapworkshop.github.io/dolap-2027/), [SIGMOD Demo](https://2027.sigmod.org/calls_sigmod_demos.shtml), EDBT Demo
 - 2026: [CHI -- Understanding People — Qualitative Methods](https://chi2026.acm.org/authors/papers/selecting-a-subcommittee/#understanding_qualitative), [DOLAP](https://dolapworkshop.github.io/dolap-2026/), [SIGMOD Demo](https://2026.sigmod.org/calls_sigmod_demos.shtml), [VLDB Demo](https://vldb.org/2026/call-for-demonstrations.html), [HILDA](https://hilda.io/2026/), [DBML](https://dataintelligencecrew.github.io/dbml26/), [BioDMS](https://biodms.org/#program-committee)
 - 2025: [WWW Resource Track](https://www2025.thewebconf.org/resource-track), [DOLAP](https://dolapworkshop.github.io/dolap-2025/), [VLDB Demo](https://vldb.org/2025/?call-for-demonstrations),[TaDa](https://tabular-data-analysis.github.io/tada2025/), [HILDA](https://hilda.io/2025/)
 - 2024: [TaDa](https://tabular-data-analysis.github.io/tada2024/)
